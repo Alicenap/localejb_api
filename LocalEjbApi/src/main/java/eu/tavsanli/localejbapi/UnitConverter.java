@@ -7,5 +7,5 @@ public interface UnitConverter {
      * @param fahrenheit Degrees in Fahrenheit
      * @return Degrees in celsius
      */
-    Long fahrenheitToCelsius(Long fahrenheit);
+    Double fahrenheitToCelsius(Double fahrenheit);
 }
